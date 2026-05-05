@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iqra-sejal
-- 👀 I’m interested in web and mobile development
-- 🌱 I’m currently learning c++
+- 👀 I’m interested in deep learning, machine learning, artificial intelligence and data analysis
+- 🌱 I’m currently learning tensorflow in pythom
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
